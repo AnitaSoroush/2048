@@ -1,7 +1,5 @@
 # 2048
-A windows version of 2048
-
-This is an implementation of 2048 game in Unity game engine using c# 
+This is an implementation of 2048 game in Unity game engine using c# for windows
 
 
 In order to play this game on a windows system:
